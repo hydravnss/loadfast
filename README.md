@@ -1,0 +1,2 @@
+# loadfast
+Sillytavern extension
